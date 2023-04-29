@@ -1,6 +1,6 @@
 {
-  "name": "mutasi-scraper",
-  "version": "2.2.7-upsert-2",
+  "name": "@rickyhehe10/bank-scraper",
+  "version": "1.0.0",
   "main": "index.js",
   "directories": {
     "example": "examples",
@@ -11,7 +11,7 @@
     "start": "node server.js",
     "example": "node ./examples/example"
   },
-  "author": "Abdul Muttaqin",
+  "author": "rickyhehe10",
   "license": "MIT",
   "description": "Scrap all settlement from indonesian banks",
   "dependencies": {
@@ -25,18 +25,10 @@
     "puppeteer-extra-plugin-click-and-wait": "^2.3.3",
     "puppeteer-extra-plugin-stealth": "^2.11.2"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fdciabdul/mutasi-scraper.git"
-  },
   "keywords": [
     "mutasi",
     "mutasi",
     "scraper"
   ],
-  "bugs": {
-    "url": "https://github.com/fdciabdul/mutasi-scraper/issues"
-  },
-  "homepage": "https://github.com/fdciabdul/mutasi-scraper#readme",
   "devDependencies": {}
 }
